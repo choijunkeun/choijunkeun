@@ -23,6 +23,9 @@ Java & Spring을 메인으로 클린코드와 OOP를 독학과 스터디로 학�
 
 ### etc
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/jenkins-F05032?style=for-the-badge&logo=git&logoColor=white">
+
+
 
 
 
