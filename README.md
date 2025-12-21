@@ -2,7 +2,7 @@
 
 경험과 성장에 가치를 두고 있고 혼자만의 성장이 아닌 주변과 같이 성장하는 개발자가 되기 위해 노력하고 있습니다. 
 
-Java & Spring을 메인으로 클린코드와 OOP를 독학과 스터디로 학습해 왔으며, 현재는 아키텍처, 디자인 패턴에 관심이 많습니다!
+Java & Spring을 메인으로 개발해왔습니다.
 
 
 ![](https://github-stats-alpha.vercel.app/api/?username=choijunkeun&cc=000&tc=fff&ic=fff&bc=000)
